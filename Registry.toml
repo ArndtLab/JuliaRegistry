@@ -1,0 +1,5 @@
+name = "JuliaRegistry"
+uuid = "ae1ca166-2416-4e31-983b-6cbef18d4bf7"
+repo = "git@github.com:ArndtLab/JuliaRegistry.git"
+
+[packages]
