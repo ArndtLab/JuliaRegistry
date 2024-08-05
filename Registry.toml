@@ -3,4 +3,5 @@ uuid = "ae1ca166-2416-4e31-983b-6cbef18d4bf7"
 repo = "git@github.com:ArndtLab/JuliaRegistry.git"
 
 [packages]
+be701e70-f25e-4246-ad85-09b5c637c424 = { name = "MariuxUtils", path = "M/MariuxUtils" }
 d7f3587b-5de0-4757-a92e-3c842e241000 = { name = "ArndtLabJuliaRegistryTools", path = "A/ArndtLabJuliaRegistryTools" }
