@@ -3,4 +3,5 @@ uuid = "ae1ca166-2416-4e31-983b-6cbef18d4bf7"
 repo = "git@github.com:ArndtLab/JuliaRegistry.git"
 
 [packages]
+88d7705d-7f72-40d5-8927-d9bc8cbe062a = { name = "PopSimIBX", path = "P/PopSimIBX" }
 d7f3587b-5de0-4757-a92e-3c842e241000 = { name = "ArndtLabJuliaRegistryTools", path = "A/ArndtLabJuliaRegistryTools" }
