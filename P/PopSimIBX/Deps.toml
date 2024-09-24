@@ -1,3 +1,7 @@
 [0]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+["0.2-0"]
+PopSimBase = "e60d1b08-a48f-4b5c-9e89-ad4b39d64fb4"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
