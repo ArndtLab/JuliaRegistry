@@ -1,0 +1,3 @@
+name = "PopSimForwardSim"
+uuid = "0ec1a278-0482-4ecb-ba29-5ed973b8a48d"
+repo = "git@github.com:ArndtLab/PopSimForwardSim.jl.git"
