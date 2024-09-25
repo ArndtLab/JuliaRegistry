@@ -3,6 +3,7 @@ uuid = "ae1ca166-2416-4e31-983b-6cbef18d4bf7"
 repo = "git@github.com:ArndtLab/JuliaRegistry.git"
 
 [packages]
+0ec1a278-0482-4ecb-ba29-5ed973b8a48d = { name = "PopSimForwardSim", path = "P/PopSimForwardSim" }
 88d7705d-7f72-40d5-8927-d9bc8cbe062a = { name = "PopSimIBX", path = "P/PopSimIBX" }
 d7f3587b-5de0-4757-a92e-3c842e241000 = { name = "ArndtLabJuliaRegistryTools", path = "A/ArndtLabJuliaRegistryTools" }
 e60d1b08-a48f-4b5c-9e89-ad4b39d64fb4 = { name = "PopSimBase", path = "P/PopSimBase" }
