@@ -6,5 +6,6 @@ repo = "git@github.com:ArndtLab/JuliaRegistry.git"
 0ec1a278-0482-4ecb-ba29-5ed973b8a48d = { name = "PopSimForwardSim", path = "P/PopSimForwardSim" }
 2104654b-de67-4eac-a5ee-be74140a16d3 = { name = "GnomADfilter", path = "G/GnomADfilter" }
 88d7705d-7f72-40d5-8927-d9bc8cbe062a = { name = "PopSimIBX", path = "P/PopSimIBX" }
+cac4bed1-6c8c-4dbe-be0d-c63a427c1233 = { name = "MLDs", path = "M/MLDs" }
 d7f3587b-5de0-4757-a92e-3c842e241000 = { name = "ArndtLabJuliaRegistryTools", path = "A/ArndtLabJuliaRegistryTools" }
 e60d1b08-a48f-4b5c-9e89-ad4b39d64fb4 = { name = "PopSimBase", path = "P/PopSimBase" }

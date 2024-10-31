@@ -1,0 +1,3 @@
+name = "MLDs"
+uuid = "cac4bed1-6c8c-4dbe-be0d-c63a427c1233"
+repo = "https://github.com/ArndtLab/MLDs.jl.git"
