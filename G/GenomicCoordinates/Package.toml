@@ -1,0 +1,3 @@
+name = "GenomicCoordinates"
+uuid = "ba2eccb5-91b3-48f8-94f3-77bebdceebef"
+repo = "git@github.com:ArndtLab/GenomicCoordinates.jl.git"
