@@ -9,5 +9,8 @@ HistogramBinnings = "0.1"
 PyPlot = "2"
 StatsBase = "0.34"
 
-["0.4.1 - 0"]
+["0.4.1"]
 DemoInfer = "0.3.4 - 0.3"
+
+["0.4.3 - 0"]
+DemoInfer = "0.3.4 - 0.4"
