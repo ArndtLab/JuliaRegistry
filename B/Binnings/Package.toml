@@ -1,0 +1,3 @@
+name = "Binnings"
+uuid = "3eb25097-c6d1-43fd-8407-4b1f8f9d3052"
+repo = "git@github.molgen.mpg.de:ArndtLab/Binnings.jl.git"
