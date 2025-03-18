@@ -12,6 +12,7 @@ repo = "git@github.com:ArndtLab/JuliaRegistry.git"
 815cba6c-817c-4129-96fa-0a4c55d2f473 = { name = "PopSimOtherTools", path = "P/PopSimOtherTools" }
 88d7705d-7f72-40d5-8927-d9bc8cbe062a = { name = "PopSimIBX", path = "P/PopSimIBX" }
 ba2eccb5-91b3-48f8-94f3-77bebdceebef = { name = "GenomicCoordinates", path = "G/GenomicCoordinates" }
+be701e70-f25e-4246-ad85-09b5c637c424 = { name = "MariuxUtils", path = "M/MariuxUtils" }
 cac4bed1-6c8c-4dbe-be0d-c63a427c1233 = { name = "MLDs", path = "M/MLDs" }
 d7f3587b-5de0-4757-a92e-3c842e241000 = { name = "ArndtLabJuliaRegistryTools", path = "A/ArndtLabJuliaRegistryTools" }
 e60d1b08-a48f-4b5c-9e89-ad4b39d64fb4 = { name = "PopSimBase", path = "P/PopSimBase" }
