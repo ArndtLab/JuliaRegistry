@@ -1,8 +1,14 @@
 [0]
-Conda = "1.10.2 - 1"
 julia = "1.10.0 - 1"
 
-["0.3.2 - 0"]
+["0 - 0.4.1"]
+Conda = "1.10.2 - 1"
+
+["0.3.2 - 0.4.0"]
+DynamicPPL = ["0.30.2 - 0.31", "0.34"]
+Turing = "0.35.1 - 0.36"
+
+["0.3.2 - 0.4.1"]
 Accessors = "0.1.38 - 0.1"
 Distributions = "0.25.112 - 0.25"
 ForwardDiff = "0.10.37 - 0.10"
@@ -18,11 +24,24 @@ Statistics = "1"
 StatsAPI = "1.7.0 - 1"
 StatsBase = "0.34.3 - 0.34"
 
-["0.3.2 - 0.4.0"]
-DynamicPPL = ["0.30.2 - 0.31", "0.34"]
-Turing = "0.35.1 - 0.36"
-
-["0.4.1 - 0"]
+["0.4.1"]
 DynamicPPL = ["0.30.2 - 0.31", "0.34 - 0.35"]
 KissSmoothing = "1.0.8 - 1"
 Turing = "0.35.1 - 0.37"
+
+["0.4.3 - 0"]
+Accessors = "0.1.42 - 0.1"
+Distributions = "0.25.120 - 0.25"
+DynamicPPL = "0.36.12 - 0.36"
+ForwardDiff = "1.0.1 - 1"
+HistogramBinnings = "0.1.1 - 0.1"
+LinearAlgebra = "1.11.0 - 1"
+Logging = "1.11.0 - 1"
+MLDs = "0.1.4 - 0.1"
+Optim = "1.13.2 - 1"
+PopSimIBX = "0.4"
+Printf = "1.11.0 - 1"
+Statistics = "1.11.1 - 1"
+StatsAPI = "1.7.1 - 1"
+StatsBase = "0.34.5 - 0.34"
+Turing = "0.39.3 - 0.39"
