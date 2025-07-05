@@ -15,10 +15,15 @@ DemoInfer = "0.3.4 - 0.3"
 ["0.4.3"]
 DemoInfer = "0.3.4 - 0.4"
 
-["0.4.4 - 0"]
+["0.4.4"]
 DemoInfer = "0.4.3 - 0.4"
+
+["0.4.4 - 0"]
 HistogramBinnings = "0.1.1 - 0.1"
 MLDs = "0.1.4 - 0.1"
 PyCall = "1.96.4 - 1"
 PyPlot = "2.11.6 - 2"
 StatsBase = "0.34.5 - 0.34"
+
+["0.4.5 - 0"]
+DemoInfer = "0.5"
