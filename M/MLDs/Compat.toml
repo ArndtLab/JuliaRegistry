@@ -6,3 +6,6 @@ ForwardDiff = "0.10"
 
 ["0.1.4 - 0"]
 ForwardDiff = "1"
+
+["0.2 - 0"]
+FastGaussQuadrature = "1.1.0 - 1"
