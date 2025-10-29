@@ -9,10 +9,10 @@ HistogramBinnings = "0.1"
 PyPlot = "2"
 StatsBase = "0.34"
 
-["0.3.0"]
+["0.4.1"]
 HetDister = "0.3.4 - 0.3"
 
-["0.3.3"]
+["0.4.10 - 0"]
 HetDister = "0.8"
 
 ["0.4.3"]
@@ -20,8 +20,6 @@ HetDister = "0.3.4 - 0.4"
 
 ["0.4.4"]
 HetDister = "0.4.3 - 0.4"
-MLDs = "0.1"
-PyCall = "1.96"
 
 ["0.4.4 - 0"]
 HistogramBinnings = "0.1.1 - 0.1"
@@ -36,7 +34,5 @@ HetDister = "0.5"
 ["0.4.7 - 0.4.8"]
 HetDister = "0.6"
 
-["0.7 - 0"]
+["0.4.9"]
 HetDister = "0.7"
-MLDs = "0.1"
-PyCall = "1.96"
