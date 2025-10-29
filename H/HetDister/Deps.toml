@@ -6,9 +6,7 @@ ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 HistogramBinnings = "8296b526-8b84-45d3-81d6-36727ca56808"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
-MLDs = "cac4bed1-6c8c-4dbe-be0d-c63a427c1233"
 Optim = "429524aa-4258-5aef-a3af-852621145aeb"
-PopSimIBX = "88d7705d-7f72-40d5-8927-d9bc8cbe062a"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 StatsAPI = "82ae8749-77ed-4fe6-ae5f-f523153014b0"
@@ -19,8 +17,16 @@ Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
 Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 
+["0 - 0.8"]
+MLDs = "cac4bed1-6c8c-4dbe-be0d-c63a427c1233"
+PopSimIBX = "88d7705d-7f72-40d5-8927-d9bc8cbe062a"
+
 ["0.4.1"]
 KissSmoothing = "23b0397c-cd08-4270-956a-157331f0528f"
 
 ["0.5 - 0"]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+["0.9 - 0"]
+FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
+PreallocationTools = "d236fae5-4411-538c-8e31-a6e3d9e00b46"
