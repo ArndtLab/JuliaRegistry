@@ -2,24 +2,26 @@
 julia = "1.10.0 - 1"
 
 ["0.3 - 0.4.0"]
-DemoInfer = "0.3"
+HetDister = "0.3"
 
 ["0.4 - 0.4.3"]
 HistogramBinnings = "0.1"
 PyPlot = "2"
 StatsBase = "0.34"
 
-["0.4.1"]
-DemoInfer = "0.3.4 - 0.3"
+["0.3.0"]
+HetDister = "0.3.4 - 0.3"
 
-["0.4.10 - 0"]
-DemoInfer = "0.8"
+["0.3.3"]
+HetDister = "0.8"
 
 ["0.4.3"]
-DemoInfer = "0.3.4 - 0.4"
+HetDister = "0.3.4 - 0.4"
 
 ["0.4.4"]
-DemoInfer = "0.4.3 - 0.4"
+HetDister = "0.4.3 - 0.4"
+MLDs = "0.1"
+PyCall = "1.96"
 
 ["0.4.4 - 0"]
 HistogramBinnings = "0.1.1 - 0.1"
@@ -29,10 +31,12 @@ PyPlot = "2.11.6 - 2"
 StatsBase = "0.34.5 - 0.34"
 
 ["0.4.5 - 0.4.6"]
-DemoInfer = "0.5"
+HetDister = "0.5"
 
 ["0.4.7 - 0.4.8"]
-DemoInfer = "0.6"
+HetDister = "0.6"
 
-["0.4.9"]
-DemoInfer = "0.7"
+["0.7 - 0"]
+HetDister = "0.7"
+MLDs = "0.1"
+PyCall = "1.96"
