@@ -21,6 +21,9 @@ PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 MLDs = "cac4bed1-6c8c-4dbe-be0d-c63a427c1233"
 PopSimIBX = "88d7705d-7f72-40d5-8927-d9bc8cbe062a"
 
+["0.10.7 - 0"]
+MvNormalCDF = "37188c8d-bc69-4638-b057-733e744175ec"
+
 ["0.4.1"]
 KissSmoothing = "23b0397c-cd08-4270-956a-157331f0528f"
 
