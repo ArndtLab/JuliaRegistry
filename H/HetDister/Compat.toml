@@ -4,6 +4,11 @@ Conda = "1.10.2 - 1"
 ["0 - 0.8"]
 julia = "1.10.0 - 1"
 
+["0.10.7 - 0"]
+DynamicPPL = "0.36.12 - 0.39"
+MvNormalCDF = "0.3.2 - 0.3"
+Turing = "0.39.3 - 0.42"
+
 ["0.3.2 - 0.4.0"]
 DynamicPPL = ["0.30.2 - 0.31", "0.34"]
 Turing = "0.35.1 - 0.36"
@@ -64,8 +69,10 @@ DynamicPPL = "0.36.12 - 0.37"
 Turing = "0.39.3 - 0.40"
 
 ["0.9 - 0"]
-DynamicPPL = "0.36.12 - 0.38"
 FastGaussQuadrature = "1.1.0 - 1"
 PreallocationTools = "0.4.34 - 0.4"
-Turing = "0.39.3 - 0.41"
 julia = "1.12.0 - 1"
+
+["0.9 - 0.10.6"]
+DynamicPPL = "0.36.12 - 0.38"
+Turing = "0.39.3 - 0.41"
