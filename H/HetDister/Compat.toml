@@ -7,7 +7,14 @@ julia = "1.10.0 - 1"
 ["0.10.7 - 0"]
 DynamicPPL = "0.36.12 - 0.39"
 MvNormalCDF = "0.3.2 - 0.3"
+
+["0.10.7 - 0.10"]
 Turing = "0.39.3 - 0.42"
+
+["0.11 - 0"]
+Optim = "1.13.2 - 2"
+PreallocationTools = ["0.4.34 - 0.4", "1"]
+Turing = "0.42"
 
 ["0.3.2 - 0.4.0"]
 DynamicPPL = ["0.30.2 - 0.31", "0.34"]
@@ -39,9 +46,11 @@ Accessors = "0.1.42 - 0.1"
 Distributions = "0.25.120 - 0.25"
 ForwardDiff = "1.0.1 - 1"
 HistogramBinnings = "0.1.1 - 0.1"
-Optim = "1.13.2 - 1"
 StatsAPI = "1.7.1 - 1"
 StatsBase = "0.34.5 - 0.34"
+
+["0.4.3 - 0.10"]
+Optim = "1.13.2 - 1"
 
 ["0.4.3 - 0.4"]
 LinearAlgebra = "1.11.0 - 1"
@@ -70,8 +79,10 @@ Turing = "0.39.3 - 0.40"
 
 ["0.9 - 0"]
 FastGaussQuadrature = "1.1.0 - 1"
-PreallocationTools = "0.4.34 - 0.4"
 julia = "1.12.0 - 1"
+
+["0.9 - 0.10"]
+PreallocationTools = "0.4.34 - 0.4"
 
 ["0.9 - 0.10.6"]
 DynamicPPL = "0.36.12 - 0.38"
