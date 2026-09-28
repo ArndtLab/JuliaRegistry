@@ -13,23 +13,26 @@ StatsAPI = "82ae8749-77ed-4fe6-ae5f-f523153014b0"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
 
-["0 - 0.4.1"]
+["0-0.4.1"]
 Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 
-["0 - 0.8"]
+["0-0.8"]
 MLDs = "cac4bed1-6c8c-4dbe-be0d-c63a427c1233"
 PopSimIBX = "88d7705d-7f72-40d5-8927-d9bc8cbe062a"
 
-["0.10.7 - 0"]
+["0.10.7-0.12"]
 MvNormalCDF = "37188c8d-bc69-4638-b057-733e744175ec"
+
+["0.13-0"]
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
 
 ["0.4.1"]
 KissSmoothing = "23b0397c-cd08-4270-956a-157331f0528f"
 
-["0.5 - 0"]
+["0.5-0"]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
-["0.9 - 0"]
+["0.9-0"]
 FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
 PreallocationTools = "d236fae5-4411-538c-8e31-a6e3d9e00b46"
